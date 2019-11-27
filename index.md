@@ -1,6 +1,4 @@
-بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيْمِ
-
-## Books
+## Some books I've read
 * Basic Economics by Thomas Sowell
 * Fooled by Randomness by Nassim Taleb
 * Titan: The life of John D Rockerfeller by Ron Chernow
