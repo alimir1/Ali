@@ -39,3 +39,4 @@
 * The Lean Startup by Eric Ries
 * Cracking the Coding Interview by Gayle Laakmann McDowell
 * Think and Grow Rich by Napoleon Hill
+* Think Big and Kick Ass by Bill Zanker and Donald Trump
