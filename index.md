@@ -1,8 +1,3 @@
----
-Home: [Link](./index.html)
-Books I've Read: [Link](./books.html)
----
-
 ## Some books I've read
 * Basic Economics by Thomas Sowell
 * Fooled by Randomness by Nassim Taleb
