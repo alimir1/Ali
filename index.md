@@ -29,7 +29,7 @@
 * Disciplined Entrepreneurship by Bill Aulet
 * Six Easy Pieces by Richard Feynman
 * The Effective Engineer by Edmond Lau
-* Jogging by william Bowerman
+* Jogging by William Bowerman
 * Civil Rights: Rhetoric or Reality? by Thomas Sowell
 * Black Rednecks and White Liberals by Thomas Sowell
 * The Autobiography of Malcolm X
