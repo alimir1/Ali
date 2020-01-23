@@ -1,4 +1,4 @@
-## Some books I've read
+## Some books I've enjoyed. Disclaimer: I'm not a fan of a few authors but the books were interesting nevertheless.
 * Basic Economics by Thomas Sowell
 * Fooled by Randomness by Nassim Taleb
 * Titan: The life of John D Rockerfeller by Ron Chernow
